@@ -178,6 +178,10 @@ header {
     
 }
 
+.features-block {
+    margin-left:40px;
+}
+
 .main-second-data-text{
     display: flex;
     flex-direction: column;
@@ -205,10 +209,14 @@ header {
     display: flex;
     width :auto;
     height:25px; 
-    font-weight: 900;
-    font-size: 16px;
     color: #212353;
     border:none;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 26px;
+    letter-spacing: 0,005em;
+    text-align: left;
+
 }
 
 .main-second-access-text {
@@ -241,10 +249,13 @@ header {
     display: flex;
     width :auto;
     height:25px; 
-    font-weight: 900;
-    font-size: 16px;
     color: #212353;
     border:none;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 26px;
+    letter-spacing: 0,005em;
+    text-align: left;
 }
 .main-second-print {
     display: flex;
@@ -427,6 +438,11 @@ header {
     border:none;
     box-shadow: 0px 5px 5px 0px #4B5D68 ;
 }
+
+.img-arrow {
+    padding-left:20px;
+    padding-top:7px;
+}
 .footer-nav {
     display:flex;
     flex-direction: row;
@@ -519,6 +535,7 @@ header {
     margin-top: -50px;
     
 }
+
 
 
 
