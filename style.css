@@ -70,6 +70,7 @@ i {
     padding-bottom: 50px;
 }
 .header-description {
+    font-family: 'Sansita Swashed', cursive;
     font-size: 18px;
     font-style: normal;
     font-weight: 500;
@@ -197,6 +198,7 @@ header {
 }
 
 .features-block-data-description {
+    font-family: 'Chilanka', cursive;
     width :220px;
     height:160px; 
     font-weight: 400;
@@ -237,6 +239,7 @@ header {
 .features-block-access-description {
     width :220px;
     font-size: 16px;
+    font-family: 'Chilanka', cursive;
     font-weight: normal;
     font-style: normal;
     color:#4B5D68;
